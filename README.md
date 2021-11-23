@@ -1,6 +1,10 @@
 # mfo
+Нові мікропозики
+Порівняйте та отримайте нову позику на https://mfo24.info/novi-mfo-ua/ 
+На сайті ми підготували для вас список, де зібрані найновіші мікропозики 2020-2021 року в Україні.
 <table id="tablepress-mfo" class="tablepress tablepress-id-mfo tablepress-responsive">
-<caption style="caption-side:bottom;text-align:left;border:none;background:none;margin:0;padding:0;"><a href="https://mfo24.info/wp-admin/admin.php?page=tablepress&amp;action=edit&amp;table_id=mfo" rel="nofollow">Редагувати</a></caption>
+<caption style="caption-side:bottom;text-align:left;border:none;background:none;margin:0;padding:0;"><a href="https://mfo24.info/novi-mfo-ua/">Нові онлайн кредити</a></caption>
+	Легкий ➤ швидкий ➤ цілодобовий ➤ онлайн займ. Кредит онлайн на карту в Нові Кредити - миттєві гроші ✓ по всій Україні, щодня без вихідних.
 <tbody class="row-hover">
 <tr class="row-1 odd">
 	<td class="column-1"></td><td class="column-2"></td><td class="column-3"></td>
