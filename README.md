@@ -158,11 +158,4 @@
 Крок 5. Кошти надійдуть на вказану картку.
 
 Саме так отримують онлайн позику на карту миттєво у всіх МФО, при тому без відмови.
-	<td class="column-1"><picture class="alignleft size-full wp-image-5937">
-<source type="image/webp" srcset="https://mfo24.info/wp-content/uploads/catcredit.png.webp">
-<img src="https://mfo24.info/wp-content/uploads/catcredit.png" alt="Catcredit MFO" width="32" height="32">
-</picture>
-</td><td class="column-2">Catcredit</td><td class="column-3"><div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://ad.admitad.com/g/a6ad96xcis0b90780e1ab220c71ac1/" target="_blank" rel="noreferrer noopener">ОФОРМИТИ</a></div></td>
-</tr>
-</tbody>
-</table>
+	
