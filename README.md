@@ -2,8 +2,7 @@
 Нові мікропозики
 Порівняйте та отримайте нову позику на 
 На сайті ми підготували для вас список, де зібрані найновіші мікропозики 2020-2021 року в Україні.
-<table id="tablepress-mfo" class="tablepress tablepress-id-mfo tablepress-responsive">
-<caption style="caption-side:bottom;text-align:left;border:none;background:none;margin:0;padding:0;"><a href="https://mfo24.info/novi-mfo-ua/">Нові онлайн кредити</a></caption>
+
 	Легкий ➤ швидкий ➤ цілодобовий ➤ онлайн займ. Кредит онлайн на карту в Нові Кредити - миттєві гроші ✓ по всій Україні, щодня без вихідних.
 
 	Загальні умови та вимоги до позичальників
